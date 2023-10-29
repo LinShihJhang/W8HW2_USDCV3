@@ -15,6 +15,14 @@ https://book.getfoundry.sh/
 
 ## Usage
 
+### Config
+
+```shell
+#set .env AlchemyAPI env variable
+#File: .env
+AlchemyAPI=https://eth-mainnet.g.alchemy.com/v2/xxxxxxxx
+```
+
 ### Build
 
 ```shell
